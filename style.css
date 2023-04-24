@@ -1,0 +1,153 @@
+table{
+    border-collapse: collapse ;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+    
+   }
+
+   h1{
+    text-align: center;
+   }
+
+   body{
+    font-family: arial;
+   }
+
+   tr{
+    border: 1px solid #DDDDDD;
+}
+
+th{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align:center;
+    padding: 10px;
+   }
+  
+   td{
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+   }
+   
+   .coluna{
+    color:#003366;
+    text-align: left;
+    font-size: 18px;
+   }
+
+   .colunap{
+    color: #1398be;
+    text-align: left;
+    font-size: 18px;
+   }
+
+   .coluna2{
+    color: #de9800;
+    text-align: left;
+    font-size: 18px;
+   }
+
+   .coluna3{
+    color: #cccccc;
+    text-align: left;
+    font-size: 18px;
+   }
+
+   .coluna4{
+    color: #c91b04;
+    text-align: left;
+    font-size: 18px;
+   }
+
+   .legenda-classificaçao{
+    font-size: 14px;
+    color: black;
+   }
+   
+   .legenda-time{
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+   }
+
+   .legenda-e{
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+    display:flex;
+    flex-direction: row;
+   }
+   .legenda-f{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    flex-direction: column;
+   }
+
+   tr:nth-child(4),
+   tr:nth-child(17) {
+  border-bottom: 2px solid #CCCCCC;
+}
+   
+  .sombreamento {
+    background: #d3d3d3;
+  }
+
+ 
+ 
+  
+  
+
+  
+  
+  
+ 
+  
+   
+   
+   
+   
+
+
+   
+
+ 
+   
+  
+  
+   
+
+  
+
+
+
+
+
+     
+     
+   
+
+   
+
+
+
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+
+
+   
+   
+   
+    
